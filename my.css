@@ -1,0 +1,18 @@
+.main{
+    background-image: url(img/logo2.avif);
+    height: 100vh;
+}
+.nav{
+    color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.maintext{
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+}
+a{
+    color:white;
+    background-color: red;
+}
